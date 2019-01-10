@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700px" height="500px" viewBox="0 0 700 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Chatler</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#5C71E7" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="700" height="500"></rect>
+        <path d="M70.4848098,106.189275 C71.591852,106.298191 72.7145319,106.353945 73.8502538,106.353945 L111.626904,106.353945 C130.352721,106.353945 145.532995,91.1970173 145.532995,72.5 C145.532995,53.8029827 130.352721,38.6460554 111.626904,38.6460554 L73.8502538,38.6460554 C55.1244366,38.6460554 39.9441624,53.8029827 39.9441624,72.5 C39.9441624,83.2017089 44.9174231,92.7436369 52.6822256,98.9474209 C52.0461321,101.226422 50.9181037,103.427999 49.2981403,105.552151 C47.1524936,108.365598 44.2392847,110.683835 40.5585136,112.506862 C44.8810826,114.475699 50.3424336,114.719482 56.9425664,113.238214 C63.5097642,111.764337 68.0238454,109.414691 70.4848098,106.189275 Z M72.6116751,0 L110.388325,0 C150.490646,0 183,32.4593556 183,72.5 C183,112.540644 150.490646,145 110.388325,145 L72.6116751,145 C32.5093543,145 0,112.540644 0,72.5 C0,32.4593556 32.5093543,0 72.6116751,0 Z" id="path-4"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chatler">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <g id="Group" mask="url(#mask-3)">
+                <g transform="translate(259.000000, 178.000000)" id="Combined-Shape">
+                    <g>
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" fill-rule="nonzero" opacity="0.25" xlink:href="#path-4"></use>
+                        <polygon fill="#FFFFFF" mask="url(#mask-5)" points="-23.3235294 -16.1111111 105.852941 -16.1111111 76.9992091 73.3950617 105.852941 162.901235 -23.3235294 161.348424"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
