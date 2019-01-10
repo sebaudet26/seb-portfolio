@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/happykennedy/seb-portfolio/precache-manifest.19727046d49fac1fb78041d9101e88dd.js"
+  "/happykennedy/seb-portfolio/precache-manifest.614705ecfa551a6e5530d88e54ddd47a.js"
 );
 
 workbox.clientsClaim();

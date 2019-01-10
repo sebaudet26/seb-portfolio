@@ -48,16 +48,12 @@ self.__precacheManifest = [
     "url": "/happykennedy/seb-portfolio/static/media/AvenirNextLTPro-Bold.91d8ff8a.otf"
   },
   {
-    "revision": "9dbe7a6b333f1c86dd545ac694023cd0",
-    "url": "/happykennedy/seb-portfolio/static/media/AvenirNextLTPro-BoldItalic.9dbe7a6b.otf"
-  },
-  {
     "revision": "8c6980117ec4b3fdfdf4881468cc88d4",
     "url": "/happykennedy/seb-portfolio/static/media/AvenirNextLTPro-Heavy.8c698011.otf"
   },
   {
-    "revision": "b5ed933057eaf1919dd79d81248cdbce",
-    "url": "/happykennedy/seb-portfolio/static/media/AvenirNextLTPro-Regular.b5ed9330.otf"
+    "revision": "9dbe7a6b333f1c86dd545ac694023cd0",
+    "url": "/happykennedy/seb-portfolio/static/media/AvenirNextLTPro-BoldItalic.9dbe7a6b.otf"
   },
   {
     "revision": "43ddcc470f1d101787d5802ded8a5775",
@@ -66,6 +62,10 @@ self.__precacheManifest = [
   {
     "revision": "751cdac5cfc9c37deefa6180a27a831d",
     "url": "/happykennedy/seb-portfolio/static/media/AvenirNextLTPro-Medium.751cdac5.otf"
+  },
+  {
+    "revision": "b5ed933057eaf1919dd79d81248cdbce",
+    "url": "/happykennedy/seb-portfolio/static/media/AvenirNextLTPro-Regular.b5ed9330.otf"
   },
   {
     "revision": "a4544d03158de1296d56645fd6c43d77",
