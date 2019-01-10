@@ -17,21 +17,21 @@ class App extends Component {
           <div className="app-content">
             <h3>Featured Projects</h3>
             <div className="grid">
-              <div className="grid-item">
+              <a href="http://chatler.io" className="grid-item">
                 <img src={ChatlerImg} />
-              </div>
-              <div className="grid-item">
+              </a>
+              <a href="http://paysafe.com" className="grid-item">
                 <img src={PaysafeImg} />
-              </div>
-              <div className="grid-item">
+              </a>
+              <a href="http://golo.io/" className="grid-item">
                 <img src={GoloImg} />
-              </div>
-              <div className="grid-item">
+              </a>
+              <a href="http://slow-eye.herokuapp.com/" className="grid-item">
                 <img src={QuickstatsImg} />
-              </div>
-              <div className="grid-item">
+              </a>
+              <a href="http://realestate.waltzapp.com/" className="grid-item">
                 <img src={WaltzImg} />
-              </div>
+              </a>
             </div>
           </div>
         </div>
