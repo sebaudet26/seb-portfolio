@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/happykennedy/seb-portfolio/precache-manifest.614705ecfa551a6e5530d88e54ddd47a.js"
+  "/happykennedy/precache-manifest.b9365a11ab1de955d30e5a0f3ee9a148.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/happykennedy/seb-portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/happykennedy/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
