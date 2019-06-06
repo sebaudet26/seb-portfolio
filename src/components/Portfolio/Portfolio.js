@@ -15,7 +15,7 @@ class Portfolio extends Component {
         <ReactTooltip />
         <h2>Featured Projects</h2>
         <div className="portfolio-grid">
-          <a target="_blank" rel="noopener noreferrer" href="http://m.me/621034761581515" className="portfolio-grid-item">
+          <a data-tip="In-Seat Delivery Messenger Chatbot" target="_blank" rel="noopener noreferrer" href="http://m.me/621034761581515" className="portfolio-grid-item">
             <img alt="" src={ChatlerBotImg} />
           </a>
           <a target="_blank" rel="noopener noreferrer" href="http://chatler.io" className="portfolio-grid-item">
