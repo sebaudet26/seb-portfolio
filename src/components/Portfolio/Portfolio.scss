@@ -1,0 +1,28 @@
+@import '../../variables.scss';
+
+.grid {
+  display: flex;
+  flex-flow: wrap;
+
+  &-item {
+    width: 33%;
+    margin-bottom: 5px;
+
+    img {
+      width: calc(100% - 5px);
+      border-radius: 6px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .grid {
+    &-item {
+      width: 100%;
+
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
