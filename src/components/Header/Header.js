@@ -8,7 +8,7 @@ class Header extends Component {
       <div className="header">
         <div className="container">
           <div className="header-content">
-            <img src={Logo} />
+            <img src={Logo} alt="Sebastien Audet Logo" />
             <div className="header-seb">
               <div className="header-seb-name">Sébastien Audet</div>
               <div className="header-seb-role">UX/UI Designer and Frontend Developer</div>

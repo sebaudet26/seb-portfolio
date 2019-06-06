@@ -17,7 +17,6 @@
   }
 
   &-seb {
-    border-left: solid 1px $grey-1;
     padding-left: 15px;
 
     &-name {
@@ -35,6 +34,10 @@
   .header-content {
     display: block;
     text-align: center;
+
+    &-seb {
+      border-left: 0px;
+    }
 
     img {
       margin: 0 0 10px 0;
