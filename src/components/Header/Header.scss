@@ -3,6 +3,7 @@
 .header {
   width: 100%;
   padding: 25px 0;
+  background: $black;
 
   &-content {
     display: flex;
@@ -22,6 +23,7 @@
     &-name {
       font-size: 24px;
       font-weight: 600;
+      color: $white;
     }
     &-role {
       color: $grey-3;
